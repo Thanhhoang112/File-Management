@@ -1,0 +1,122 @@
+D:\4.HK4\Lập trình trên Windows\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.csprojAssemblyReference.cache
+D:\4.HK4\Lập trình trên Windows\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmMain.resources
+D:\4.HK4\Lập trình trên Windows\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.Properties.Resources.resources
+D:\4.HK4\Lập trình trên Windows\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.GenerateResource.cache
+D:\4.HK4\Lập trình trên Windows\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+D:\4.HK4\Lập trình trên Windows\Project cuối kỳ\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+D:\4.HK4\Lập trình trên Windows\Project cuối kỳ\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+D:\4.HK4\Lập trình trên Windows\Project cuối kỳ\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+D:\4.HK4\Lập trình trên Windows\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+D:\4.HK4\Lập trình trên Windows\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmMain.resources
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmNewFolder.resources
+C:\Users\Admin\Desktop\Project cuối kỳ\FileManagement\FileManagement\obj\Debug\FileManagement.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmNewFolder.resources
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmMain.resources
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\Project cuối kỳ 10-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csprojAssemblyReference.cache
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.dll
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.dll
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.xml
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.xml
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csprojAssemblyReference.cache
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmNewFolder.resources
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmMain.resources
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.Properties.Resources.resources
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.GenerateResource.cache
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CopyComplete
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+E:\studyofhao\lập trình windows\cuối kỳ\Project cuối kỳ 12-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmNewFolder.resources
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmMain.resources
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\Project cuối kỳ 13-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmNewFolder.resources
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmMain.resources
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\Project cuối kỳ 17-06-2020\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\obj\Debug\FileManagement.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmNewFolder.resources
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmMain.resources
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\obj\Debug\FileManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Hoàng mới sửa\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\bin\Debug\FileManagement.exe.config
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\bin\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\bin\Debug\FileManagement.pdb
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\bin\Debug\EntityFramework.dll
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\bin\Debug\EntityFramework.xml
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\obj\Debug\FileManagement.csprojAssemblyReference.cache
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmNewFolder.resources
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\obj\Debug\FileManagement.Views.FrmMain.resources
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\obj\Debug\FileManagement.Properties.Resources.resources
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.GenerateResource.cache
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\obj\Debug\FileManagement.csproj.CopyComplete
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\obj\Debug\FileManagement.exe
+C:\Users\Admin\Desktop\Project cuối kỳ 17-6-2020 ( Hoàng sửa)\FileManagement\FileManagement\obj\Debug\FileManagement.pdb
